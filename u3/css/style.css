@@ -539,7 +539,7 @@ textarea {
   max-width: 50%;
   width: 100%;
   background-color: #000000;
-  background-image: linear-gradient(0deg, rgba(81, 98, 246, 0.2), rgba(81, 98, 246, 0.2)), url(../../img/bg.jpg);
+  background-image: linear-gradient(0deg, rgba(81, 98, 246, 0.2), rgba(81, 98, 246, 0.2)), url(./../img/bg.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -811,4 +811,4 @@ textarea {
   box-sizing: border-box;
 }
 
-.webp .title__background { background-image: linear-gradient(0deg, rgba(81, 98, 246, 0.2), rgba(81, 98, 246, 0.2)), url(../../img/bg.webp); }
+.webp .title__background { background-image: linear-gradient(0deg, rgba(81, 98, 246, 0.2), rgba(81, 98, 246, 0.2)), url(./../img/bg.webp); }
